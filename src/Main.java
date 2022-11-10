@@ -1,5 +1,3 @@
-package objetos.parcial2.examen;
-
 import objetos.parcial2.examen.smarthome.*;
 
 public class Main {
